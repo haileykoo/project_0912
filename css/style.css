@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|VT323&display=swap');
+
+body {
+    background-color: #DBDBDB;
+    color: black;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal;
+    font-family: arial;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.main-heading {
+    color: #6C659E;
+    font-size: 10rem;
+    font-family: VT323, Arial, Helvetica, sans-serif;
+}
+
+.main-paragraphy {
+    color: rgba(8, 3, 36, 0.747);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.sub-heading {
+    font-family: Roboto, 'segoe UI';
+    font-size: 2rem;
+}
+
+.category {
+    background-color: #C7CEDB;
+    color: #2E3532;
+    text-align: center;
+    font-family: VT323, Arial;
+    font-size: 2rem;
+}
+
+.darktheme {
+    background-color: darkgray;
+}
+
+.countries {   
+    color: #94849B;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.show_title {
+    color: #7E9181;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.introduction {
+    background-color: #B8B8BF;
+}
+
+.travel_intro {
+    background-image: url(../img/background.jpeg);
+    /* how to use background image with a full size */
+    color: white;
+}
+
+.netflix_intro {
+    background-color: #e5091465;
+    color: white;
+}
+
+footer {
+    background-color: white;
+}
