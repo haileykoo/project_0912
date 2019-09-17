@@ -68,5 +68,10 @@ body {
 }
 
 footer {
-    background-color: white;
+    background-color: #2E3532;
+    color: #94849B;
+    font-size: 0.9 rem;
+    font-family: 'Times New Roman', Times, serif;
+
+    /* font: 700 nomal (weight) 1rem (style size - reqired) heleveica, arial, sans-serif (family-required) */
 }
